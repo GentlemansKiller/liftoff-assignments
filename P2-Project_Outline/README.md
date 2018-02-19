@@ -31,10 +31,3 @@ Composer's Project Dashboard is a multi-feature, user-based project manager cent
 ### What I'll Have to Learn
 * using APIs
 * possibly AngularJS
-
-### Application Files (including wireframes)
-
-* https://github.com/GentlemansKiller/project-manager/tree/master/capstone%20misc.%20items
-
-### Trello Page
-* https://trello.com/b/3Y4c8e7j/capstone-project-lc101-liftoff-winter2017-spring2018

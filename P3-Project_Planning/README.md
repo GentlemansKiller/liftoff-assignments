@@ -8,8 +8,8 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+* https://github.com/GentlemansKiller/project-manager/tree/master/capstone%20misc.%20items
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+* https://trello.com/b/3Y4c8e7j/capstone-project-lc101-liftoff-winter2017-spring2018
